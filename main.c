@@ -63,7 +63,7 @@ void assignPID(int childPid) {
 void intro() //Intro BabyShell
 {
     clear(); //sterge tot ce e deasupra
-    printf("\n\n\n            Welcome to the BabyShell!\n\n\n   Autori: Antal-Burlacu Mihaela, Dumitrache G. Larisa\n   Disclaimer: Use at your own Risk!\n   2020\n\n");
+    printf("\n\n\n            Welcome to the BabyShell!\n\n\n   
     sleep(3); //doarme 3 secunde
     clear(); //sterge mesajul de bun venit pt a astepta comanda
 }
